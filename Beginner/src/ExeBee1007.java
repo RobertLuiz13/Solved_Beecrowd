@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import java.util.Scanner;
 
 public class ExeBee1007 {
@@ -17,7 +17,4 @@ public class ExeBee1007 {
 
 }
 
-=======
-public class ExeBee1007 {
-}
->>>>>>> d70d481 (ex 1008)
+
